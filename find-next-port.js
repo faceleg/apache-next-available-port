@@ -1,3 +1,5 @@
+#! /usr/bin/node
+
 var apacheconf = require('apacheconf'),
     walk = require('walk');
 
