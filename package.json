@@ -1,0 +1,12 @@
+{
+  "name": "apache-port-finder",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node find-next-port.js"
+  },
+  "dependencies": {
+    "apacheconf": "latest",
+    "walk": "latest"
+  }
+}
